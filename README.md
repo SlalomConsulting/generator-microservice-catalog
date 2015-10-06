@@ -1,4 +1,4 @@
-# generator-microservice-catalog [![Build Status](https://secure.travis-ci.org/aaronallport/generator-microservice-catalog.png?branch=master)](https://travis-ci.org/aaronallport/generator-microservice-catalog)
+# generator-microservice-catalog
 
 > [Yeoman](http://yeoman.io) generator
 
