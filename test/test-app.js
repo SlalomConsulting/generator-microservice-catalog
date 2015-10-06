@@ -18,7 +18,9 @@ describe("microservice-catalog:app", function () {
             "bower.json",
             "package.json",
             ".editorconfig",
-            ".jshintrc"
+            ".jshintrc",
+            "app/index.js",
+            "app/catalog.html"
         ]);
     });
 });
