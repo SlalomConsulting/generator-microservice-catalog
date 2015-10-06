@@ -1,0 +1,3 @@
+tests
+
+main generator file creation (gulp inc. watch for instant updates)
