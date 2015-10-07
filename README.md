@@ -35,6 +35,18 @@ Finally, initiate the generator:
 yo microservice-catalog
 ```
 
+To generate endpoints:
+
+```bash
+yo microservice-catalog:endpoint <NAME>
+```
+
+Where <NAME> is the name of the endpoint.
+
+### Running Express
+
+From the directory in which you've run `yo`, run `node app`. Next, open up a web browser to `localhost:8080`
+
 ### Getting To Know Yeoman
 
 Yeoman has a heart of gold. He's a person with feelings and opinions, but he's very easy to work with. If you think he's too opinionated, he can be easily convinced.

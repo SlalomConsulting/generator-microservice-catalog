@@ -1,10 +1,11 @@
 var express = require("express");
+var path = require("path");
 //MODULES_HOOK
 
 var app = express();
 
 app.get("/", function (req, res) {
-    res.sendFile("catalog.html");
+    res.sendFile(path.join(__dirname, "catalog.html"));
 });
 
 //ENDPOINTS_HOOK

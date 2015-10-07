@@ -104,7 +104,7 @@ module.exports = yeoman.generators.Base.extend({
             if (this.operations[operation]) {
                 htmlOperationsToSplice.push(
                     "<div>\n" +
-                        "\t<h2>" + operation + "/" + this.name + "</h2>\n" +
+                        "\t<h2>" + operation + " on /" + this.name + "</h2>\n" +
                         "\t<div>\n" +
                             "\t\tChange this text about operation " + operation + " on /" + this.name + "\n" +
                         "\t</div>\n" +
