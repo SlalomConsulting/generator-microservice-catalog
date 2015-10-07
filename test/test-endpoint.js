@@ -17,11 +17,4 @@ describe("microservice-catalog:endpoint", function () {
                 ]);
             })
     });
-/*
-    it("updates the express config and the service catalog", function () {
-        assert.fileContent("app/index.js", /var testEndpoint = require("\.\/endpoints\/testEndpoint")/);
-        assert.fileContent("app/index.js", /testEndpoint\.get(req, res);/);
-        assert.fileContent("app/catalog.html", /GET on \/testEndpoint/);
-    });
-*/
 });
