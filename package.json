@@ -1,13 +1,13 @@
 {
     "name": "generator-microservice-catalog",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Yeoman generator",
     "license": "MIT",
     "main": "app/index.js",
     "repository": "aaronallport/generator-microservice-catalog",
     "author": {
         "name": "Aaron Allport",
-        "email": "",
+        "email": "aaron.allport@slalom.com",
         "url": "https://github.com/aaronallport"
     },
     "scripts": {
